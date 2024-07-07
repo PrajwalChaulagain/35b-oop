@@ -1,1 +1,0 @@
-public STATIC MAIN FUN
