@@ -1,0 +1,3 @@
+git add . ///help to keep file in stagging area
+git commit -m " messaged the" //HELP TO GIVE FILE NAME
+git push ///hwl to keep allt he file  //   
